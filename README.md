@@ -4,7 +4,7 @@ A project for **DataBase** at University of Economics Ho Chi Minh City
 
 ## Members/Authors
 - `31211027676` Nguyễn Đình Toàn ([@kudasai03](https://github.com/Kudasai03))
-- `31211023531` Nguyễn Thị Phương Thảo ()
+- `31211027671` Nguyễn Thị Phương Thảo ()
 
 ______
 
