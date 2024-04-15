@@ -14,12 +14,11 @@ ______
 and access control.
 ______
 
-The achievements of our project include:
-
-• Understanding and grasping the processes that constitute a database.
+## The achievements of our project include:
+**Understanding and grasping the processes that constitute a database.**
 • Understanding the organizational processes of a store's operations.
 • Applying the theoretical knowledge we've learned to the model-building process.
 
-The future directions for our project may involve:
+**The future directions for our project may involve:**
 • Developing and expanding the store model to enable transactions on e-commerce platforms.
 • Optimizing the operational cycle of the store.
